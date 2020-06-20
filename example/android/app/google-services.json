@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "654336440889",
+    "firebase_url": "https://serene-coyote-122304.firebaseio.com",
+    "project_id": "serene-coyote-122304",
+    "storage_bucket": "serene-coyote-122304.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654336440889:android:cccadb1d2980a0e9dd2be8",
+        "android_client_info": {
+          "package_name": "co.kee.remember"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654336440889-n10j8urdb1j7plkaecfn7lcsrug0a3r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFjGVbJkQcaiARt2pufr0e8GJIBjkhR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654336440889-n10j8urdb1j7plkaecfn7lcsrug0a3r9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "654336440889-r15qtart53090feiu485ib36qdnapajn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signInFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
